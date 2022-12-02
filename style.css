@@ -93,6 +93,13 @@ p {
 .email-link:hover {
   text-decoration: underline;
 }
+.footer-link {
+  font-size: 1em;
+  color: rgb(80, 75, 75);
+  display: block;
+  margin: 0 auto;
+  text-align: center;
+}
 
 @media (max-width: 576px) {
   .change-col-order {
